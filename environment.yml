@@ -1,0 +1,7 @@
+name: reverse_complement_env
+channels:
+  - conda-forge
+  - bioconda
+dependencies:
+  - python=3.12.7
+  - pip
